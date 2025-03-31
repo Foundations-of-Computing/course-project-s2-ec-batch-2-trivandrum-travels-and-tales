@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha384-9+R5v4/f79+g2zK/k4f89+8+s3+94k4Z/5v6gV87U7k/L6vL3AQo=" crossorigin>
+    <link rel="stylesheet" href="css.css">
+</head>
+<body>
+    <header >
+         <h2>TRIVANDRUM TRAVELS AND TALES 
+        <title>Welcome to Trivandrum</title>
+        <h2>Discover the beauty, culture, and history of Kerala's capital city</h2>
+        
+
+        
+            
+         
+        
+        
+    </header>
+
+        <nav>
+            <ul>
+                
+                
+                    <style>
+                        a {
+                            color: white;
+                            text-decoration: none;
+                        }
+                        button {
+                            padding: 10px 10px;
+                            background-color: #204721;
+                            
+                            color: white;
+                            border: none;
+                            cursor: pointer;
+                            width: 100%;}
+                        
+                        button:hover {
+                            opacity:0.8;
+                            padding-right:10px;
+                            padding-left:10px;
+                            transition:padding 1s;
+                        }
+                    </style>
+                
+                <li><a href="#home"><button>home</button></a></li>
+                
+                <li><a href="#tourists attractions"><button>destinations</button></a></li>
+                
+                <li><a href="#food spots"><button>food spots</button></a></li>
+                
+                <li><a href="#places of cultural importance"><button>Culture</button></a></li>
+                
+                <li><a href="#contact"><button>Contact</button></a></li>
+
+            </ul>
+        </nav>
+    
+    
+    <section id="home">
+
+        <p>
+        Thiruvananthapuram district, with its blend of history, culture, natural beauty, and warm hospitality,
+             promises an enriching experience for every traveler. Whether you seek spiritual solace in ancient temples, wish to unwind on sun-kissed beaches, or desire to immerse yourself in Kerala's vibrant festivals, Thiruvananthapuram invites you to embark on a journey that celebrates the essence of God's Own Country. Come, explore, and be captivated by the magic of Thiruvananthapuram
+             
+             Thiruvananthapuram is an ancient region with trading traditions dating back to 1000 BCE.It is believed that the ships of King Solomon landed in a port called Ophir (now Poovar) in Thiruvananthapuram in 1036 BCE.The city was the trading post of spices, sandalwood and ivory.However, the ancient political and cultural history of the city was almost entirely independent from that of the rest of Kerala. The early rulers of the city were the Ays. With their fall in the 10th century, the city was taken over by the rulers of Venad.
+
+In the late 17th century, Marthanda Varma who inherited the Kingdom of Venad expanded the kingdom by conquering kingdoms of Attingal, Kollam, Kayamkulam, Kottarakara, Kottayam, Changanassery, Meenachil, Poonjar and Ambalapuzha. In 1729, Marthanda Varma founded the princely state of Thiruvithamkoor and Thiruvananthapuram was made the capital in 1745 after shifting the capital from Padmanabhapuram in Kanyakumari district.The kingdom of Travancore was dedicated by Marthanda Varma to the deity Sri. Padmanabha (Lord Vishnu). The rulers of Travancore ruled the kingdom as the servants of Sri. Padmanabha.
+
+The city developed into a major intellectual and artistic centre during this period. The golden age in the city's history was during the mid 19th century under the reign of Maharaja Swathi Thirunal and Maharaja Ayilyam Thirunal. This era saw the establishment of the first English school (1834), the Observatory (1837), the General Hospital (1839), the Oriental Research Institute & Manuscripts Library and the University College (1873). The first mental hospital in the state was started during the same period. Sanskrit College, Ayurveda College, Law College and a second grade college for women were started by Moolam Thirunal (1885–1924).
+
+The Thiruvananthapuram Municipality came into existence in 1920. The municipality was converted into a Corporation on 30 October 1940, during the period of Chitra Thirunal Bala Rama Varma, who took over in 1931.The city witnessed many-sided progress during his period. The promulgation of "Temple Entry Proclamation" (1936) was an act that underlined social emancipation. This era also saw the establishment of the University of Travancore in 1937, which later became Kerala University.
+
+With the end of the British rule in 1947, Travancore chose to join the Indian union. The first popular ministry headed by Pattom Thanu Pillai was installed in office on 24 March 1948. In 1949, Thiruvananthapuram became the capital of Thiru-Kochi, the state formed by the integration of Travancore with its northern neighbour Kochi.The king of Travancore, Chitra Thirunal Bala Rama Varma, became the Rajpramukh of the Travancore-Cochin Union from 1 July 1949 until 31 October 1956. When the state of Kerala was formed on 1 November 1956, Thiruvananthapuram became its capital.
+</p>
+             <style>
+                 #home {
+                    font: sans-serif;
+                     
+                 }
+             </style>
+
+            
+    </section>
+    
+    <section id="destinations">
+        <h2>Tourist attractions</h2>
+        <div class="destinations">
+            <h3>Kovalam Beach</h3>
+            <p>An internationally renowned beach destination in Kerala offers crescent-shaped shores, cultural programs, Ayurvedic retreats, and nearby attractions like a lighthouse, art galleries, and boating on scenic waters.</p>
+     
+                
+                <img
+                 src=
+                 https://theroamingshoes.com/wp-content/uploads/2020/10/DSC_0299-1536x1024.jpg
+                 
+                 alt="Kovalam Beach"
+                 
+                
+                 
+                 
+                 
+
+                 class="destination-image"
+                 margin-left="30px"
+                 height="560px"
+                 width="1000px"
+                 />
+                 <br/>
+                 <a href="https://www.kerala.gov.in/places/kovalam-beach">learn more</a>
+                 
+                 
+                    
+            </p>
+        </div>
+       <div class="destinations">
+            <h3>Padmanabhaswamy Temple</h3>
+            <p>Historic blend of Kerala-Dravidian architecture with murals, sculptures, and the iconic reclining Vishnu idol</p>
+            <p>
+                In the heart of Thiruvananthapuram in Kerala stands a symbol of timeless spirituality and architectural grandeur - the Sree Padmanabhaswamy Temple. This ancient shrine which is a tribute to Lord Padmanabhaswamy (an incarnation of Lord Vishnu) is a reflection of the rich cultural heritage and deep rooted religious traditions of the land. 
+                
+                Located inside the East Fort of the city it is believed to be the world's richest temple. With an architectural style that's a blend of the Kerala and Dravidian styles, the history of the temple dates back to the 8th century. 
+                
+                The architectural marvel of the temple is a salute to the ingenuity and craftsmanship of the artisans of yore and is renowned for its work in stone and bronze.</p>
+                
+                The idol of the presiding deity is noted for its composition which has 12008 salagramams, which were brought from Nepal. It is believed to have been taken from the banks of the River Gandhaki.</p>
+
+
+            <a href="https://padmanabhaswamy.kerala.gov.in/">     
+                 Learn more        </a>
+                 <br />
+            <img
+             src=
+             https://media.assettype.com/outlooktraveller%2F2023-12%2F18ba8f02-9f91-4462-b211-e0b0e0630e8f%2Fshutterstock_2364371479.jpeg?w=1024&auto=format%2Ccompress&fit=max
+             
+             alt="Padmanabhaswamy Temple"width="1024" height="600"
+             class="destination-image"
+        div/>
+        <div class="destinations">
+            <h3>Kuthiramalika (Puthenmalika) Palace Museum</h3>
+            <h5>Historic palace near Padmanabhaswamy Temple, showcasing Kerala architecture, rare artifacts, and Maharaja Swathi Thirunal’s legacy.</h5>
+            <p>
+
+            </p>
+            <p>
+                Kuthiramalika Palace, also known as Puthenmalika Palace, is a magnificent example of traditional Kerala architecture and a treasure trove of royal artifacts. Located near the renowned Padmanabhaswamy Temple in Thiruvananthapuram, this palace was built by Swathi Thirunal Rama Varma, the Maharaja of Travancore, in the 19th century. Kuthiramalika, meaning "Mansion of Horses," gets its name from the 122 wooden horses that adorn the exterior walls of the palace. This historical monument is a must-visit destination for those interested in Kerala's rich cultural heritage and royal history.
+            </p>
+            
+            <img
+            src=https://www.kuthiramaliga.in/1slide/01.jpg
+            alt="kuthiramaliga"
+            margin-left="30px"
+            height="560px"
+            width="1000px"
+
+            class="destination-image"/>
+            
+
+
+            
+            
+        </div>
+    </section>
+    
+    <section id="foodspots">
+        <p></p>
+
+        <h2>Food spots</h2>
+        <p>Afsal vizhinjam for spicy chicken fry, Rajila hotel for the best mutton dishes, Mothers veg plaza at bakery junction for good sadhya and dosa dishes, Goodmorning and GP hotel for good beef roast and beef fry, Many restos around Vizhinjam and Kovalam for sea food, Asife biriyani. Saranya mess near technopark for early morning Chicken and Mutton Biriyani. Kuravankonam road for many Cafes. Punchakkari Shap for Toddy and many meat dishes like Rabbit, Duck, Pork and variety of sea food. Maha Boli for some Boli and Paayasam(TVM speciality). Try to find good chicken Pakoda, Chicken Thoran ( Available and Shambu Shankaran hotel ). Try many vadas and snacks at tea shops around town. Kumbakonam Filter coffee for some damn good coffee. Malabar Bites ( near Kowdiar) for a variety of snacks.</p>
+        
+        <p>
+            <ul>
+                <li><h3>GOOD MORNING HOTEL </h3>
+                    <p>
+                        For those who appreciate quality food, a warm atmosphere, and attentive service, Good Morning Hotel in Karamana, Thiruvananthapuram is a must-visit destination.
+                        the hotel is famous for its flaky porotta and beef curry
+                    </p>
+                </li>
+                <li><h3>PARAGON HOTEL</h3>
+                    <p>
+                        Paragon Hotel in Trivandrum(keshavadasapuram), Kerala is known for its warm ambiance, high-quality service, and a variety of dining options.
+                        The hotel is famous for its soft lagoon chicken biriyani.</p>
+                    </p>
+
+                </li>
+                <li><h3>MAHA BOLI</h3>
+                    <p>
+                        For a delicious and authentic palada boli experience in Thiruvananthapuram (Trivandrum), Maha Boli in East Fort, Pazhavangadi is the most famous and popular choice.
+                    </p>
+                </li>
+                     
+                
+                    
+           
+    </section>
+    
+    <section id="places of cultural importance">
+        <h2>places of cultural importance</h2>
+        <p>Explore trivandrum's most famous culturally renowned places.</p>
+            <ul>
+                <li>Napiar musium</li>
+                <li>Sree Padmanabhaswamy Temple</li>
+                <li>Kowdiar palace</li>
+                <li>Azhimala shiva temple</li>
+                <li>Kanakakkunnu palace</li>
+            </ul>
+        </p>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Have questions or stories to share? Reach out to us!</p>
+    </section>
+    
+    
+    
+</body>
+</html>
